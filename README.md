@@ -1,7 +1,7 @@
 # SPFX List-form-customizer
 
 
-![SPFXFormCustomizerByPravinn](https://user-images.githubusercontent.com/35328578/199080855-67ae4e4e-c59d-475d-aa2c-73b86ef491fa.png)
+![SPFXFormCustomizerByPravinn](https://user-images.githubusercontent.com/35328578/199082141-2d2a4170-4f29-4167-b732-ab158c3a775c.png)
 
 
 ## References
