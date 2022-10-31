@@ -1,0 +1,53 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://modernsearchtrail.sharepoint.com/sites/ListFormCustomization/_layouts/15/SPListForm.aspx",
+      "formCustomizer": {
+        "componentId": "45dd68d6-73e0-49b0-b94c-319b8ab8bf7f",
+        "PageType": 8,
+        "RootFolder": "/sites/ListFormCustomization/Lists/Customization",
+        "properties": {
+          "sampleText": "Value"
+        }
+      }
+    },
+    "listFormCustomizer_NewForm": {
+      "pageUrl": "https://modernsearchtrail.sharepoint.com/sites/ListFormCustomization/_layouts/15/SPListForm.aspx",
+      "formCustomizer": {
+        "componentId": "45dd68d6-73e0-49b0-b94c-319b8ab8bf7f",
+        "PageType": 8,
+        "RootFolder": "/sites/ListFormCustomization/Lists/Customization",
+        "properties": {
+          "sampleText": "Value"
+        }
+      }
+    },
+    "listFormCustomizer_EditForm": {
+      "pageUrl": "https://modernsearchtrail.sharepoint.com/sites/ListFormCustomization/_layouts/15/SPListForm.aspx",
+      "formCustomizer": {
+        "componentId": "45dd68d6-73e0-49b0-b94c-319b8ab8bf7f",
+        "PageType": 6,
+        "RootFolder": "/sites/ListFormCustomization/Lists/Customization",
+        "ID": 1,
+        "properties": {
+          "sampleText": "Value"
+        }
+      }
+    },
+    "listFormCustomizer_ViewForm": {
+      "pageUrl": "https://modernsearchtrail.sharepoint.com/sites/ListFormCustomization/_layouts/15/SPListForm.aspx",
+      "formCustomizer": {
+        "componentId": "45dd68d6-73e0-49b0-b94c-319b8ab8bf7f",
+        "PageType": 4,
+        "RootFolder": "/sites/ListFormCustomization/Lists/Customization",
+        "ID": 1,
+        "properties": {
+          "sampleText": "Value"
+        }
+      }
+    }
+  }
+}
