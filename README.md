@@ -2,7 +2,8 @@
 
 
 
-![SPFXFormCustomizerByPravinn](https://user-images.githubusercontent.com/35328578/199159130-a8c71a2d-e387-46e2-a883-75b3451320db.png)
+
+![SPFXFormCustomizerByPravinn](https://user-images.githubusercontent.com/35328578/199159631-2c98286c-64db-42b3-ad73-f1948b7c1386.png)
 
 
 ## References
